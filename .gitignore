@@ -73,6 +73,4 @@ local/
 output/
 
 # custom
-*.ipynb
-.ipynb_checkpoints/
 *.pickle
